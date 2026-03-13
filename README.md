@@ -1,11 +1,13 @@
 # <h1 align="center"> Jules ILBOUDO | **@Aether**</h1>
 
-> Build the future, line by line
+> I love JSON
+> I love YAML
+> I don't love pdf
 
 ## 🚀 À propos de moi
 
 - Je travaille actuellement sur des projets **Flutter** et **Springboot**
-- J'apprends constamment de nouvaux concepts
+- En apprentissage continue 
 - Passionné par l'architecture logicielle et les bonnes pratiques
 
 
