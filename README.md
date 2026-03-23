@@ -1,8 +1,6 @@
 # <h1 align="center"> Jules ILBOUDO | **@Aether**</h1>
 
 > I love JSON   
-> I love YAML  
-> I don't love pdf  
 
 ## 🚀 À propos de moi
 
