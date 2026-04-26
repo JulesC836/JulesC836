@@ -55,7 +55,7 @@ Je suis **Jules ILBOUDO**. Passionné par la création d'applications performant
 
 
 <div align="center">
-  <img src="https://github-all-stats.onrender.com/api?username=JulesC836&v=1" alt="My GitHub Stats" />
+  <img src="https://github-all-stats.onrender.com/api?username=JulesC836&v=2" alt="My GitHub Stats" />
 </div>
 
 <br />
