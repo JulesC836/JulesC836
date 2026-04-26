@@ -53,9 +53,9 @@ Je suis **Jules ILBOUDO**. Passionné par la création d'applications performant
 
 ### Statistiques & Activité
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulesC836&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesC836&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&hide_border=true" width="48%" />
+  <img src="https://github-all-stats.onrender.com/api?username=JulesC836&v=1" alt="My GitHub Stats" />
 </div>
 
 <br />
