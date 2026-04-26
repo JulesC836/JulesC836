@@ -1,38 +1,78 @@
-# <h1 align="center"> Jules ILBOUDO | **@Aether**</h1>
-
-> I love JSON   
-
-## 🚀 À propos de moi
-
-- Je travaille actuellement sur des projets **Flutter** et **Springboot**
-- En apprentissage continue 
-- Passionné par l'architecture logicielle et les bonnes pratiques
-
-
-## Langages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=ts,python,java,dart,php&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter,angular,laravel,django,spring&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis,vscode,arch,tailwindcss,docker,postman&theme=light)](https://skillicons.dev)
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/JulesC836" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/j_ilboudo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/jules-ilboudo-b4b3633a7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/JulesC836" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JulesC836?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a><a href="https://www.x.com/j_ilboudo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/j_ilboudo?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=0f172a"
-/></a>
-
-### Badges
-
 <div align="center">
-  <img src="https://github-all-stats.onrender.com/api?username=JulesC836&v=1" alt="My GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header" width="100%" />
+
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Salut,+je+suis+Jules+!;Fullstack+Developer" alt="Typing SVG" />
+  </h1>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=JulesC836&label=PROFILE+VIEWS&color=14b8a6&style=for-the-badge&labelColor=0f172a" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/jules-ilboudo-b4b3633a7" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=14b8a6&labelColor=0f172a" alt="LinkedIn" />
+    </a>
+    <a href="https://www.x.com/j_ilboudo" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/j_ilboudo?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Twitter" />
+    </a>
+  </p>
 </div>
 
-<b>Top Repositories</b>
-<br />
-<a href="https://github.com/JulesC836/springboot-quickstart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulesC836&repo=springboot-quickstart&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
-</a> <a href="https://github.com/JulesC836/springboot-quickstart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yeelen-tech&repo=transaction_scrapper&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
-</a>
+---
 
+### À propos de moi
+
+Je suis **Jules ILBOUDO**. Passionné par la création d'applications performantes et élégantes, je me spécialise dans les écosystèmes **Flutter**, **Spring Boot** et **Angular**
+
+- **En ce moment** : Ouvert aux opportunités et collabrorations.
+- **Apprentissage** : Toujours à l'affût des dernières avancées en Cloud Native et Design Systems.
+- **Philosophie** : "Clean code isn't just about making it work; it's about making it last."
+
+---
+
+### Ma Stack Technologique
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>Frontend & Mobile</b><br />
+        <img src="https://skillicons.dev/icons?i=flutter,angular,ts,tailwindcss&theme=dark" />
+      </td>
+      <td align="center" width="33%">
+        <b>Backend & API</b><br />
+        <img src="https://skillicons.dev/icons?i=spring,fastapi,laravel,django,python,java,php&theme=dark" />
+      </td>
+      <td align="center" width="33%">
+        <b>Infrastructure & DB</b><br />
+        <img src="https://skillicons.dev/icons?i=mysql,mongo,firebase,redis,docker,postman,vscode&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### Statistiques & Activité
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulesC836&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesC836&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&hide_border=true" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <b>Top Repositories</b><br /><br />
+  <a href="https://github.com/JulesC836/springboot-quickstart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulesC836&repo=springboot-quickstart&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
+  </a>
+  <a href="https://github.com/Yeelen-tech/transaction_scrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yeelen-tech&repo=transaction_scrapper&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=100&section=footer" width="100%" />
+  <p><i>Propulsé par la passion et quelques tasses de café. ☕</i></p>
+</div>
