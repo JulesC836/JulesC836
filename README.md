@@ -66,7 +66,7 @@ Je suis **Jules ILBOUDO**. Passionné par la création d'applications performant
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulesC836&repo=springboot-quickstart&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
   </a>
   <a href="https://github.com/Yeelen-tech/transaction_scrapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yeelen-tech&repo=transaction_scrapper&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulesC836&repo=auth-sdk&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
   </a>
 </div>
 
