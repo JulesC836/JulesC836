@@ -43,7 +43,7 @@ Je suis **Jules ILBOUDO**. Passionné par la création d'applications performant
       </td>
       <td align="center" width="33%">
         <b>Infrastructure & DB</b><br />
-        <img src="https://skillicons.dev/icons?i=mysql,mongo,firebase,redis,docker,postman,vscode&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongo,firebase,redis,docker,postman,postgres&theme=dark" />
       </td>
     </tr>
   </table>
