@@ -53,21 +53,13 @@ Je suis **Jules ILBOUDO**. Passionné par la création d'applications performant
 
 ### Statistiques & Activité
 
-
 <div align="center">
-  <img src="https://github-all-stats-zeta.vercel.app/api?username=JulesC836&v=2" alt="My GitHub Stats" />
-</div>
 
-<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=JulesC836)](https://git.io/streak-stats)
+[![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div align="center">
-  <b>Top Repositories</b><br /><br />
-  <a href="https://github.com/JulesC836/springboot-quickstart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulesC836&repo=springboot-quickstart&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
-  </a>
-  <a href="https://github.com/JulesC836/auth-sdk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulesC836&repo=auth-sdk&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" width="45%" />
-  </a>
 </div>
 
 ---
