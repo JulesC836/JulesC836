@@ -31,22 +31,9 @@ Je suis **Jules ILBOUDO**. Passionné par la création d'applications performant
 ### Ma Stack Technologique
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>Frontend & Mobile</b><br />
-        <img src="https://skillicons.dev/icons?i=flutter,angular,ts,tailwindcss&theme=dark" />
-      </td>
-      <td align="center" width="33%">
-        <b>Backend & API</b><br />
-        <img src="https://skillicons.dev/icons?i=spring,fastapi,laravel,django,python,java,php&theme=dark" />
-      </td>
-      <td align="center" width="33%">
-        <b>Infrastructure & DB</b><br />
-        <img src="https://skillicons.dev/icons?i=mysql,mongo,firebase,redis,docker,postman,postgres&theme=dark" />
-      </td>
-    </tr>
-  </table>
+        <img src="https://skillicons.dev/icons?i=flutter,angular,ts,tailwindcss&theme=light" />
+        <img src="https://skillicons.dev/icons?i=spring,fastapi,django,python,java&theme=light" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongo,firebase,supabase,redis,docker,postman,postgres&theme=light" />
 </div>
 
 ---
