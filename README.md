@@ -20,7 +20,7 @@
 
 ### À propos de moi
 
-Je suis **Jules ILBOUDO**. Passionné par la création d'applications performantes et élégantes, je me spécialise dans les écosystèmes **Flutter**, **Spring Boot** et **Angular**
+Je suis **Jules ILBOUDO**. Passionné par la création de développement logiciel, je me spécialise dans les écosystèmes **Flutter**, **Spring Boot** et **Angular**
 
 - **En ce moment** : Ouvert aux opportunités et collabrorations.
 - **Apprentissage** : Toujours à l'affût des dernières avancées en Cloud Native et Design Systems.
