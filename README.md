@@ -6,7 +6,7 @@
   </h1>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=JulesC836&label=PROFILE+VIEWS&color=14b8a6&style=for-the-badge&labelColor=0f172a" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=JulesC07&label=PROFILE+VIEWS&color=14b8a6&style=for-the-badge&labelColor=0f172a" alt="Profile Views" />
     <a href="https://www.linkedin.com/in/jules-ilboudo-b4b3633a7" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=14b8a6&labelColor=0f172a" alt="LinkedIn" />
     </a>
@@ -42,10 +42,10 @@ Je suis **Jules ILBOUDO**. Passionné par la création de développement logicie
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JulesC836)](https://git.io/streak-stats)
-[![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JulesC836/JulesC836/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JulesC07)](https://git.io/streak-stats)
+[![](https://raw.githubusercontent.com/JulesC07/JulesC07/main/profile-summary-card-output/graywhite/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JulesC07/JulesC07/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JulesC836/JulesC07/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JulesC07/JulesC07/main/profile-summary-card-output/graywhite/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JulesC836/JulesC07/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
